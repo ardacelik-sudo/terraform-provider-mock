@@ -1,0 +1,7 @@
+*.exe
+*.test
+*.out
+*.tfstate*
+.terraform/
+.terraform.lock.hcl
+.DS_Store
